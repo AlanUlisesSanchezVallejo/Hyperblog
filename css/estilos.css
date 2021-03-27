@@ -43,7 +43,6 @@ body {
   background: white;
   padding: 1em;
 }
-<<<<<<< HEAD
 
 #cabecera #tagline {
   padding: 0 0 0 1em;
@@ -52,10 +51,8 @@ body {
 }
 
 #footer {
-background: #777;
-color: white;
-text-align:center;
-padding: 0.5em;
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
 }
-=======
->>>>>>> 28f83eff1ab34c992c6936be1c9557ae2588787c
